@@ -1,3 +1,5 @@
+import numpy
+
 
 def fun(arg1=1, arg2=0):
     return arg1 + arg2
